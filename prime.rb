@@ -1,2 +1,2 @@
 # Add  code here!
-def primelearn
+def prime
